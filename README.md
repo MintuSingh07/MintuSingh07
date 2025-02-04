@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mintu Singh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Walkmans](https://walkmans.in/)
+- 🔭 I’m currently working on [UrbanMart](Side Project)
 
 - 🌱 I’m currently learning **React & Node JS**
 
